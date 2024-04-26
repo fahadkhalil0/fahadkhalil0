@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif)
+![MasterHead](https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif)
 
 <h1 align="center">Hi 👋, I'm Fahad Khalil</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
