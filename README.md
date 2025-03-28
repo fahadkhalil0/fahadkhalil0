@@ -1,26 +1,26 @@
 ![MasterHead](https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif)
 
 <h1 align="center">Hi 👋, I'm Fahad Khalil</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">I am currently working on C++ language from Pakistan</h3>
 <img align="right" alt="coding" height="150px" width="250px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhalil0&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhalil0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/solangifahad3" target="blank"><img src="https://img.shields.io/twitter/follow/solangifahad3?logo=twitter&style=for-the-badge" alt="solangifahad3" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end development, Jscript, Tscript, React.js**
+- 🌱 I’m currently learning **Front-end development, C++, Object-Oriented-Programming, Classes and Objects and Javascript a little bit**
 
-- 👯 I’m looking to collaborate on **HMTL5,CSS,JavaScript,and TypeScript projects**
+- 👯 I’m looking to collaborate on **HMTL5,CSS,JavaScript,and C++ Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/imfahadkhalil/](https://www.linkedin.com/in/imfahadkhalil/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/imfahadkhalil/](https://www.linkedin.com/in/imfahadkhalil/)
+- 📝 I upload my on [https://www.linkedin.com/in/imfahadkhalil/](https://www.linkedin.com/in/imfahadkhalil/)
 
-- 💬 Ask me about **HTML5, CSS, JAVA, MYCODE**
+- 💬 Ask me about **HTML5, CSS, C++, JavaScript, MYCODE**
 
 - 📫 How to reach me **fahadkhalilsolangi@gmail.com**
 
-- ⚡ Fun fact **Did you know that the first website went live on August 6, 1991? Created by Tim Berners-Lee, it was a simple page explaining the World Wide Web project. Fast forward to today, and there are over 1.8 billion websites on the internet! As you embark on your journey into front-end development, remember that every line of code you write contributes to this ever-expanding digital universe. Keep coding, and who knows? Maybe one day your name will be synonymous with groundbreaking web development just like Tim Berners-Lee's! 💻✨**
+- ⚡ Fun fact **Did you know that the first website went live on August 6, 1991? Created by Tim Berners-Lee, it was a simple page explaining the World Wide Web project. Fast forward to today, and there are over 1.8 billion websites on the internet! As you embark on your journey into front-end development, C++ Projects, and remember that every line of code you write contributes to this ever-expanding digital universe. Keep coding, and who knows? Maybe one day your name will be synonymous with groundbreaking web development just like Tim Berners-Lee's! 💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
