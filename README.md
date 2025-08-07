@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Fahad Khalil </h1>
 
-<h3 align="center">I am currently working on C++ language </h3>
+<h3 align="center">I am currently working on C++, Object-Oriented Programming (OOP), and Python to stay aligned with the latest technology trends </h3>
 <img align="right" alt="coding" height="150px" width="250px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <a href="https://twitter.com/solangifahad3" target="blank"><img src="https://img.shields.io/twitter/follow/solangifahad3?logo=twitter&style=for-the-badge" alt="solangifahad3" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Object-Oriented-Programming, Classes and Objects and Javascript a little bit**
+- 🌱 I’m currently learning **C++, Object-Oriented-Programming, Classes and Objects and also Python**
 
 - 👯 I’m looking to collaborate on **HMTL5,CSS, and C++ Projects**
 
@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **fahadkhalilsolangi@gmail.com**
 
-- ⚡ Fun fact **Did you know that the first website went live on August 6, 1991? Created by Tim Berners-Lee, it was a simple page explaining the World Wide Web project. Fast forward to today, and there are over 1.8 billion websites on the internet! As you embark on your journey into front-end development, C++ Projects, and remember that every line of code you write contributes to this ever-expanding digital universe. Keep coding, and who knows? Maybe one day your name will be synonymous with groundbreaking web development just like Tim Berners-Lee's! 💻✨**
+- ⚡ Fun fact **Did you know that as of 2025, AI-generated content makes up over 15% of all web data? From websites to articles and even entire applications, artificial intelligence is helping developers create faster, smarter, and more efficient digital experiences.
+As you continue building your skills in Front-End Development, C++ Projects, and Python Programming, remember — you're coding in a time where tech is evolving faster than ever.
+💡 Keep pushing boundaries — your next project could be the one that shapes the future of the web!-💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
