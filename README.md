@@ -40,4 +40,7 @@ As you continue building your skills in Front-End Development, C++ Projects, and
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadkhalil0&show_icons=true&locale=en" alt="fahadkhalil0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhalil0&" alt="fahadkhalil0" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fahadkhalil0" alt="fahadkhalil0's GitHub streak" />
+</p>
+
